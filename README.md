@@ -2,7 +2,7 @@
 
 This repository contains the implementation of SecureCoder based on the enhanced Proximal Policy Optimization (PPO) algorithm. It can predict downlink precoder design in TDD MU-MISO wireless networks against malicious NR-RIS attacks. The simulation results indicate SecureCoder can mitigate the information leakage and enhance the sum rate under NR-RIS CRACK.
 
-Related paper: "Nonreciprocal RIS aided Covert Channel Reciprocity Attacks and Countermeasures" submitted to IEEE Trans
+Related paper: **"Nonreciprocal RIS aided Covert Channel Reciprocity Attacks and Countermeasures"** submitted to IEEE Trans
 
 Authors: Haoyu Wang, Jiawei Hu, Jiqi Xu, Ying Ju, and Lee Swindlehurst 
 
